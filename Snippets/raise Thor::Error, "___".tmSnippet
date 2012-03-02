@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>raise Thor::Error, "${1:error msg}"</string>
+	<key>name</key>
+	<string>raise Thor::Error, "..."</string>
+	<key>scope</key>
+	<string>source.ruby.thor</string>
+	<key>tabTrigger</key>
+	<string>ther</string>
+	<key>uuid</key>
+	<string>7CE6DB3A-ED6C-43EF-BC58-AB99EB26687B</string>
+</dict>
+</plist>
